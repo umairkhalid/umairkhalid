@@ -41,5 +41,3 @@ Hi, I'm Umair, a Full Stack Developer 🚀 from Australia.
 
 
 ![Umair's github stats](https://github-readme-stats.vercel.app/api?username=umairkhalid&show_icons=true&hide_border=true)
-
-//credits to creators
