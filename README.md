@@ -22,7 +22,6 @@ Hi, I'm Umair, a Full Stack Developer 🚀 from Australia.
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me: tyfoniacrage.x.au@gmail.com
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: adarshreddy9849@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1GwEbXEJLJZXkx-SqxCBybLJ_rFb-uxVl/view)
 
 **Languages and Tools:**  
