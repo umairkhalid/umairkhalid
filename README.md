@@ -18,10 +18,10 @@ Hi, I'm Umair, a Full Stack Developer 🚀 from Australia.
 
 - 👋 Hi, I’m @umairkhalid
 - 👀 I’m interested in excelling my coding skills
-- 🌱 I’m currently learning Web Development including React, MongoDB, typescript and NodeJS; 
+- 🌱 I’m currently learning Web Development including React, MongoDB, typescript and NodeJS
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me: tyfoniacrage.x.au@gmail.com
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 - 📝[Resume](https://drive.google.com/file/d/1GwEbXEJLJZXkx-SqxCBybLJ_rFb-uxVl/view)
 
 **Languages and Tools:**  
@@ -30,7 +30,6 @@ Hi, I'm Umair, a Full Stack Developer 🚀 from Australia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
