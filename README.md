@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Umair Khalid!](https://umairkhalid.github.io/online-portfolio/) 
+### Hey 👋🏽, I'm [Umair Khalid!](https://umairkhalid.github.io) 
 
 **Get in touch:**
 [![Linkedin Badge](https://img.shields.io/badge/-umairkhalid-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umair-khalid-8771b348)](https://www.linkedin.com/in/umair-khalid-8771b348/) [![Github Badge](https://img.shields.io/badge/-umairkhalid-grey?style=flat&logo=github&logoColor=white&link=https://github.com/umairkhalid/)](https://www.github.com/umairkhalid/) ![Profile views](https://gpvc.arturio.dev/umairkhalid)
