@@ -1,16 +1,7 @@
 ### Hey 👋🏽, I'm [Umair Khalid!](https://umairkhalid.github.io/online-portfolio/) 
+
 **Get in touch:**
-<a href="https://twitter.com/umairkhalid">
-  <img align="left" alt="Umair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/umair-khalid-8771b348">
-  <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/tyfoniacrage/">
-  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br />
-<br />
+[![Linkedin Badge](https://img.shields.io/badge/-umairkhalid-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umair-khalid-8771b348)](https://www.linkedin.com/in/umair-khalid-8771b348/) [![Github Badge](https://img.shields.io/badge/-umairkhalid-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/pedes/) ![Profile views](https://gpvc.arturio.dev/umairkhalid)
 
 Hi, I'm Umair, a Full Stack Developer 🚀 from Australia.
   
@@ -41,3 +32,4 @@ Hi, I'm Umair, a Full Stack Developer 🚀 from Australia.
 
 
 ![Umair's github stats](https://github-readme-stats.vercel.app/api?username=umairkhalid&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=umairkhalid&layout=compact)](https://github.com/umairkhalid/github-readme-stats)
