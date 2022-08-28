@@ -6,7 +6,7 @@
 Hi, I'm Umair, a Full Stack Developer 🚀 from Australia.
 
 - 👀 I’m interested in learning more about Kubernetes and Microservices
-- 🌱 I’m currently learning Web Development including Vue, React, MongoDB, Express and NodeJS
+- 🌱 Certified Full Stack Web Developer | Vue | React | MongoDB | Express | NodeJS
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me: tyfoniacrage.x.au@gmail.com
 - 💬 Ask me about anything, I am happy to help
